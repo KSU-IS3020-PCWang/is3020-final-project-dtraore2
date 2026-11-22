@@ -2,10 +2,10 @@
 
 ## Student and Project Information
 
-- Student name:
-- GitHub username:
-- Project title:
-- Application purpose:
+- Student name: Diarra Traore
+- GitHub username: dtraore2
+- Project title: IS3020 Final Project 
+- Application purpose: Application allows users to track soccer league standings by recording match results and and calculating team rankings.
 
 ## How to Run the Application
 
